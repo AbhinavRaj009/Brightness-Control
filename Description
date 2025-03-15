@@ -1,0 +1,5 @@
+Project Name: Brightness Control Using Hand Gestures
+Description:
+This project enables users to control screen brightness using hand gestures, providing a contactless and intuitive way to adjust brightness levels. By leveraging computer vision and hand tracking technologies, the system detects the user's hand, maps the distance between fingers to brightness levels, and adjusts the brightness accordingly.
+
+The project is built using Python, OpenCV, and MediaPipe, with system brightness adjustment handled via PyAutoGUI or screen-brightness-control. The goal is to create a touch-free, real-time interaction method suitable for various applications, including accessibility, smart home automation, and AR/VR environments.
