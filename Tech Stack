@@ -1,0 +1,7 @@
+Technologies Used:
+🛠 Programming Language: Python
+📷 Computer Vision Library: OpenCV
+✋ Hand Tracking: MediaPipe
+📊 Mathematical Computations: NumPy
+💡 Brightness Control: PyAutoGUI / screen-brightness-control
+
