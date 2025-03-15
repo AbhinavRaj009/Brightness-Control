@@ -1,0 +1,5 @@
+How It Works:
+1. Hand Detection: The system detects the thumb and index finger positions using MediaPipe's Hand Tracking model.
+2. Distance Calculation: The Euclidean distance between the two fingers is computed.
+3. Brightness Mapping: The calculated distance is mapped to a brightness scale (0% - 100%).
+4. System Brightness Adjustment: The brightness value is applied using PyAutoGUI or screen-brightness-control.
