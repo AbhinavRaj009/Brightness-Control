@@ -1,0 +1,8 @@
+Installation & Setup:
+1. Prerequisites:
+    a. Install Python (3.x recommended)
+    b. Install required libraries:
+2. Copy code
+    a. pip install opencv-python mediapipe numpy screen-brightness-control pyautogui
+3. Run the Program:
+   python brightness_control.py
