@@ -1,0 +1,7 @@
+Features:
+✅ Real-time Hand Tracking: Uses MediaPipe for accurate detection of hand landmarks.
+✅ Gesture-based Brightness Control: Adjust brightness by varying the distance between the thumb and index finger.
+✅ Contactless Interaction: Eliminates the need for physical buttons or keyboard shortcuts.
+✅ Cross-Platform Support: Works on Windows, Linux, and macOS with necessary adjustments.
+✅ Optimized for Performance: Runs at 30+ FPS, ensuring smooth and responsive interactions.
+✅ User-Friendly & Adaptive: Handles lighting variations and prevents false detections using noise filtering techniques.
